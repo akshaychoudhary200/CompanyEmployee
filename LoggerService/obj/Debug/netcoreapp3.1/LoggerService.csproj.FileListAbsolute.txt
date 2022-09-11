@@ -1,0 +1,13 @@
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.deps.json
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.dll
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/bin/Debug/netcoreapp3.1/LoggerService.pdb
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/bin/Debug/netcoreapp3.1/Contracts.dll
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/bin/Debug/netcoreapp3.1/Contracts.pdb
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.AssemblyReference.cache
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfoInputs.cache
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.AssemblyInfo.cs
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.CoreCompileInputs.cache
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csproj.CopyComplete
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.dll
+/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/Debug/netcoreapp3.1/LoggerService.pdb

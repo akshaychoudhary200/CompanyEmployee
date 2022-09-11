@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/CompanyEmployee/CompanyEmployee.csproj": {}
+  },
+  "projects": {
+    "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/CompanyEmployee/CompanyEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/CompanyEmployee/CompanyEmployee.csproj",
+        "projectName": "CompanyEmployee",
+        "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/CompanyEmployee/CompanyEmployee.csproj",
+        "packagesPath": "/Users/akshaychoudhary/.nuget/packages/",
+        "outputPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/CompanyEmployee/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshaychoudhary/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj": {
+                "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj"
+              },
+              "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/LoggerService.csproj": {
+                "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/LoggerService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.28, 3.1.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/akshaychoudhary/.nuget/packages/",
+        "outputPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshaychoudhary/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj",
+        "packagesPath": "/Users/akshaychoudhary/.nuget/packages/",
+        "outputPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshaychoudhary/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/LoggerService.csproj",
+        "packagesPath": "/Users/akshaychoudhary/.nuget/packages/",
+        "outputPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshaychoudhary/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

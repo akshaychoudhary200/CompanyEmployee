@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IkmdlnJ34nt1hnkGtgmzxbEkojyc8xCMnLM+RBpC7e24IegUJtySiI7QRDNftCK0p1GHp9cur9qAucbz2jhTYQ==",
+  "success": true,
+  "projectFilePath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

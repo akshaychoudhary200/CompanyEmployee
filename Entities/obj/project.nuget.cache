@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvDj/j+rLTRVVhONFKnNJw3LkY4hoF8CIkNkRqv+drceVEHCS63t4qp4tjh7iOsAZ3AsFaPbZX+76NusOclX7Q==",
+  "success": true,
+  "projectFilePath": "/Users/akshaychoudhary/Documents/Coding/PROJECTS/DOTNET/CompanyEmployee/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.entityframeworkcore/3.1.28/microsoft.entityframeworkcore.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.28/microsoft.entityframeworkcore.abstractions.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.28/microsoft.entityframeworkcore.analyzers.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.28/microsoft.extensions.caching.abstractions.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.caching.memory/3.1.28/microsoft.extensions.caching.memory.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.configuration/3.1.28/microsoft.extensions.configuration.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.28/microsoft.extensions.configuration.abstractions.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.configuration.binder/3.1.28/microsoft.extensions.configuration.binder.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.28/microsoft.extensions.dependencyinjection.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.28/microsoft.extensions.dependencyinjection.abstractions.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.logging/3.1.28/microsoft.extensions.logging.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.28/microsoft.extensions.logging.abstractions.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.options/3.1.28/microsoft.extensions.options.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.extensions.primitives/3.1.28/microsoft.extensions.primitives.3.1.28.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/akshaychoudhary/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
