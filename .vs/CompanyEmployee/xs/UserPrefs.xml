@@ -1,7 +1,4 @@
-﻿<Properties StartupConfiguration="{D1E6CF57-4EC4-4B42-9819-564669C11E33}|Default">
-  <MonoDevelop.Ide.ItemProperties.CompanyEmployee FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D1E6CF57-4EC4-4B42-9819-564669C11E33}|Default">
+  <MonoDevelop.Ide.ItemProperties.CompanyEmployee PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LoggerService FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Contracts FirstBuild="True" />
 </Properties>
